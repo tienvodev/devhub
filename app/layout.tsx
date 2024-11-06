@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
-import "./globals.css";
-import { fontBrand } from "./styles/fonts";
+import "@/app/styles/globals.css";
+import { fontBrand } from "@/app/styles/fonts";
 
 export const metadata: Metadata = {
   title: "devhub | ask, answer, evolve – powered by ai",
