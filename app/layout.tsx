@@ -3,9 +3,9 @@ import "@/app/styles/globals.css";
 import { fontBrand } from "@/app/styles/fonts";
 
 export const metadata: Metadata = {
-  title: "devhub | ask, answer, evolve – powered by ai",
+  title: "devpub | ask, answer, evolve – powered by ai",
   description:
-    "devhub: a community-driven, ai-powered q&a platform for developers. get fast, intelligent answers, earn badges, and build your profile by helping others. join the next generation of knowledge sharing in tech",
+    "devpub: a community-driven, ai-powered q&a platform for developers. get fast, intelligent answers, earn badges, and build your profile by helping others. join the next generation of knowledge sharing in tech",
 };
 
 export default function RootLayout({

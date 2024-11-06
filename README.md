@@ -1,10 +1,10 @@
-# devhub
+# devpub
 
 **ask, answer, evolve – powered by ai**
 
 ## about
 
-devhub is an ai-powered q&a platform designed for developers to find solutions, share knowledge, and earn recognition. with community-driven answers and intelligent ai assistance, devhub makes learning and contributing easier and more rewarding.
+devpub is an ai-powered q&a platform designed for developers to find solutions, share knowledge, and earn recognition. with community-driven answers and intelligent ai assistance, devpub makes learning and contributing easier and more rewarding.
 
 ## features
 
@@ -17,7 +17,7 @@ devhub is an ai-powered q&a platform designed for developers to find solutions, 
 
 1. **clone the repo**:
    ```bash
-   git clone https://github.com/yourusername/devhub.git
+   git clone https://github.com/yourusername/devpub.git
    ```
 2. **install dependencies**:
    ```bash
